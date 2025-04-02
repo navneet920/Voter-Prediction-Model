@@ -1,5 +1,6 @@
 # Voter-Prediction-Model
 An AI-powered voter behavior prediction model using machine learning. Analyzes demographic and socio-economic data to forecast election trends and optimize decision-making.
+
 🚀 Key Features
 ✅ Data Preprocessing & Cleaning – Handles missing values, outliers, and feature scaling.
 ✅ Machine Learning Model Training – Implements multiple ML algorithms for prediction.
